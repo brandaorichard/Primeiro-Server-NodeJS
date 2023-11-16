@@ -1,3 +1,6 @@
+Aplicação de gerenciamento de times de futebol
+
+
 Configurações iniciais do projeto:
 
 1) Inicializacao do pacote node: npm init -y
